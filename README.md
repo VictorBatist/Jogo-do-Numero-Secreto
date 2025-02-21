@@ -1,2 +1,3 @@
-# JogoDoNumeroSecreto
-Repositório destinado ao exercicio educativo do Jogo do Numero Secreto para praticar o JavaScript
+<h1 align='center'> Jogo do Número Secreto</h1>
+
+<h2 align='center'>Nesse repositorio você poderá baixar localmente essa aplicação para jogar o jogo o numero secreto</h2>
